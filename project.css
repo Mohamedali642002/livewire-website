@@ -1,0 +1,208 @@
+.h3{
+    text-align: justify;
+}
+.p1{
+text-align: center;
+background-color: darkslategrey;
+height: 500px;
+font-size: 79px;
+color:white;
+font-weight: bold;
+font-family:'Times New Roman', Times, serif ;
+margin-top: 20px;
+}
+.p2{
+    text-align: center;
+    font-size:40px;
+    color:pink;
+    font-weight: bolder;
+    margin-top: -60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.leftdiv{
+    width:30%;
+    float: left;
+    font-size: 62px;
+    color: red;
+    font-weight: bolder;
+    margin-top: -20px;
+}
+.middiv{
+    width:30%;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 20px;
+    
+    
+}
+.rightdiv{
+    width:30%;
+    font-size: 20px;
+    float:right;
+    font-weight: bold;
+    color: blue;
+    margin-top: 10px;
+}
+img{
+    border-color: red;
+    image-rendering: crisp-edges;
+    border-image-width: 5px;
+}
+.nav{
+   margin-left: 30px;
+   text-align: center;
+}
+.a{
+    text-align: center;
+    font-size:40px;
+    color:rgb(245, 240, 240);
+    border:4px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: black;
+}
+a:hover{
+    color: yellow;
+}
+.im{
+margin-top: 90px;
+margin-left: 230px;
+}
+.au{
+    width:49.7%;
+    float:left;
+    font-size: 30px;
+    text-align: center;
+    color:red;
+    font-weight: bolder;
+   
+}
+.s{
+    float:right;
+    width:49.9%;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.n{
+    font-size:35px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(2, 8, 55);
+
+}
+input{
+    text-align: center;
+   margin-left:10%;
+    font-size: 20px;
+    border: 3px solid black;
+    
+}
+select{
+    border: 3px solid black;
+    margin-left:10%;
+    width:256px;
+    font-size: 20px;
+    text-align: center;
+}
+.re{
+    width:256px;
+}
+.submit{
+width:256px;
+background-color: gray;
+font-size: 20px;
+font-weight: bolder;
+}
+
+.cla{
+    width:30%;
+    height: px;
+}
+.h33{
+    font-size: 25px;
+    margin-left: 110px;
+}
+form{
+    border:3px solid rgb(238, 247, 251);
+    height: 250px;
+}
+.ja{
+    width: 60%;
+    border:3px solid gray;
+    float: right;
+    margin-top: -17%;
+    height: 200px;
+    background-color: gray;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+}
+script{
+    border:3px solid white;
+}
+button{
+    width:256px;
+    margin-left: 43px;
+}
+.mar{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    animation-name: dev;
+    animation-duration: 20s;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 10px;
+}
+@keyframes dev {
+    50%{color:rgb(2, 8, 55)}
+    60%{color:yellow}
+    100%{color:black}
+    
+}
+.i1{
+    margin-left: 9%;
+    padding: 1px;
+}
+.end{
+    background-color: darkgray;
+    height: 400px;
+    font-size: 30px;
+    color: rgb(19, 74, 123);
+    width: 50%;
+    
+}
+.end1{
+    color: blue;
+    text-decoration: none;
+    margin-left: 270px;
+    margin-top: 40px;
+    
+    
+}
+.end2{
+    width:50%;
+    background-color: darkgray;
+    height: 400px;
+    font-size: 30px;
+    color: black;
+    float: right;
+    margin-top: -400px;
+    text-align: center;
+}
+.end3{
+    margin-top: 150px;
+    font-size: 90px;
+    color: red;
+    font-weight: bold;
+}
+.end4{
+    margin-top: -90px;
+    color:black;
+    font-weight: bold;
+    font-size: larger;
+}
